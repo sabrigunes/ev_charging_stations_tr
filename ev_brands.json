@@ -1,0 +1,862 @@
+[
+  {
+    "id": 1,
+    "name": "360° ENERJİ",
+    "short_name": "360 ENERJİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 2,
+    "name": "3a",
+    "short_name": "MAS SINAİ VE TİCARİ YATIRIMLAR ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 3,
+    "name": "5 şarj",
+    "short_name": "BORENCO ŞARJ TEKNOLOJİ YATIRIMLARI TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 4,
+    "name": "AARCONA",
+    "short_name": "ARCONA TEKNOLOJİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 5,
+    "name": "ACROBAT",
+    "short_name": "KARKIN ENERJİ TİCARET VE SANAYİ LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 6,
+    "name": "ACROPOL",
+    "short_name": "GREENLEAF YENİLENEBİLİR ENERJİ SİSTEMLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 7,
+    "name": "ADZE",
+    "short_name": "ALFAMET ENERJİ VE ŞARJ TEKNOLOJİLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 8,
+    "name": "Akköprülü",
+    "short_name": "AKKÖPRÜLÜ OTOMOTİV İNŞAAT SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 9,
+    "name": "akmcharge",
+    "short_name": "AKMERCAN ELEKTRİK DOĞAL GAZ YATIRIMLARI ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 10,
+    "name": "AKSA ŞARJ",
+    "short_name": "AKSA MÜŞTERİ ÇÖZÜMLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 11,
+    "name": "AKTİF ŞARJ",
+    "short_name": "BAŞARI GLOBAL SAVUNMA SANAYİ TEKNOLOJİLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 12,
+    "name": "Antkem",
+    "short_name": "ANTKEM GIDA TURİZM MAKİNA SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 13,
+    "name": "AOSTECHNOLOGY",
+    "short_name": "AYHAN TEKNOLOJİ VE OTOMASYON ÇÖZÜMLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 14,
+    "name": "ar armaksis ar verdepunto",
+    "short_name": "VERDEPUNTO ENERJİ SİSTEMLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 15,
+    "name": "ARSİMA",
+    "short_name": "ARSİMA YENİLENEBİLİR ENERJİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 16,
+    "name": "ASPLUS",
+    "short_name": "ASPLUS ŞARJ İSTASYONLARI İŞLETMELERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 17,
+    "name": "ASTOR",
+    "short_name": "ASTOR ENERJİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 18,
+    "name": "AUTOŞARJ",
+    "short_name": "SOLARPARK DANIŞMANLIK TURİZM MÜHENDİSLİK ENERJİ ÜRETİM İNŞAAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 19,
+    "name": "AUTOVOLT",
+    "short_name": "AUTOVOLT ENERJİ TEKNOLOJİ SİSTEMLERİ İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 20,
+    "name": "B-CHARGE",
+    "short_name": "CHARGE LABORATORY MOBİLİTY TEKNOLOJİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 21,
+    "name": "B-FORCE",
+    "short_name": "BAŞER OTOMOTİV PETROL İNŞAAT KİRALAMA ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 22,
+    "name": "beefull",
+    "short_name": "BEEFULL ENERJİ TEKNOLOJİLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 23,
+    "name": "biogreen",
+    "short_name": "ENAY ENERJİ GIDA ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 24,
+    "name": "BLADECO",
+    "short_name": "BLADECO ALÜMİNYUM SANAYİ VE TİCARET LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 25,
+    "name": "BÖLGEM mobilite",
+    "short_name": "BÖLGEM MÜHENDİSLİK İNŞAAT ELEKTRİK MAKİNE SANAYİ VE TİCARET LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 26,
+    "name": "carbonage",
+    "short_name": "SPUR ENERJİ YATIRIMLARI SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 27,
+    "name": "Cavalier",
+    "short_name": "FOKS ENERJİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 28,
+    "name": "CHARGEINN",
+    "short_name": "SHU ARGE İNOVASYON VE BİLGİ TEKNOLOJİLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 29,
+    "name": "CHARGING VEHICLES CV",
+    "short_name": "CW ENERJİ MÜHENDİSLİK TİCARET VE SANAYİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 30,
+    "name": "CheckPoint",
+    "short_name": "CHECKPOİNT ŞARJ İSTASYONLARI İŞLETMECİLİĞİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 31,
+    "name": "CLIXOLAR",
+    "short_name": "SOLARŞARJET ENERJİ VE ELEKTRİKLİ ARAÇ ŞARJ SİSTEMLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 32,
+    "name": "CTG ELEKTRİK ANONİM ŞİRKETİ",
+    "short_name": "CTG ELEKTRİK ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 33,
+    "name": "CV Enerji",
+    "short_name": "CW ENERJİ MÜHENDİSLİK TİCARET VE SANAYİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 34,
+    "name": "D-Charge",
+    "short_name": "DOĞUŞ ŞARJ SİSTEMLERİ PAZARLAMA VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 35,
+    "name": "d-rect charge",
+    "short_name": "D RECT CHARGE ELEKTRİK ENERJİ SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 36,
+    "name": "dgdoğuşgıda",
+    "short_name": "DOĞUŞ DİJİTAL ENERJİ LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 37,
+    "name": "DYNOPOWER",
+    "short_name": "GOŞARJ ELECTRİCAL ENERJİ YATIRIM ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 38,
+    "name": "E-mod Mobil Şarj İstasyonu",
+    "short_name": "MOD MALKARLAR OTOMOTİV SANAYİ TİCARET LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 39,
+    "name": "e-POwer",
+    "short_name": "PETROL OFİSİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 40,
+    "name": "E4 ŞARJ",
+    "short_name": "TT VENTURES PROJE GELİŞTİRME ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 41,
+    "name": "ECOBOX",
+    "short_name": "ATAY GÜÇ VE ENERJİ SİSTEMLERİ İMALAT SANAYİ TİCARET LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 42,
+    "name": "ECOCONNECT",
+    "short_name": "FCTR ELEKTRİKLİ ARAÇLAR ENERJİ TEKNOLOJİLERİ VE HİZMETLERİ A.Ş"
+  },
+  {
+    "id": 43,
+    "name": "eee Eskişehir Endüstriyel Enerji Elektrik Üretim A.Ş.",
+    "short_name": "ESKİŞEHİR ENDÜSTRİYEL ENERJİ ELEKTRİK ÜRETİM ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 44,
+    "name": "efish",
+    "short_name": "ARTAŞ ENERJİ YATIRIMLARI SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 45,
+    "name": "ekojet",
+    "short_name": "YENİ SÜRDÜRÜLEBİLİR ENERJİ TEKNOLOJİLERİ VE ÜRETİMLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 46,
+    "name": "EKOS",
+    "short_name": "EKOS MOBİLİTE ÇÖZÜMLERİ TEKNOLOJİ TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 47,
+    "name": "ekoşarj en ekonomik, en ekolojik şekil",
+    "short_name": "HES GROUP ENERJİ İNŞAATVE SANAYİ TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 48,
+    "name": "Elaris Elektrikli Araç Şarj Hizmetleri",
+    "short_name": "ELARİS ENERJİ YATIRIMLARI ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 49,
+    "name": "Electrise",
+    "short_name": "CHARGE TEKNOLOJİ SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 50,
+    "name": "EN YAKIT",
+    "short_name": "EN YAKIT ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 51,
+    "name": "ENERGY CHARGING OPERATOR NETWORK ECON",
+    "short_name": "GLOBAL İNOVATİF ENERJİ TEKNOLOJİLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 52,
+    "name": "energy enerjik",
+    "short_name": "ENERGY ŞARJ İSTASYON İŞLETMECİLİĞİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 53,
+    "name": "enertürk rhg enerji",
+    "short_name": "RHG ENERTÜRK ENERJİ ÜRETİM VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 54,
+    "name": "EPSIS",
+    "short_name": "FORM ELEKTRİK İNŞAAT MÜHENDİSLİK ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 55,
+    "name": "ERC SİSTEM",
+    "short_name": "ERC SİSTEM ELEKTRİK MAKİNA İMALAT TAAHHÜT SANAYİ  VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 56,
+    "name": "eşarj",
+    "short_name": "EŞARJ ELEKTRİKLİ ARAÇLAR ŞARJ SİSTEMLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 57,
+    "name": "ESTASYON",
+    "short_name": "İSTASYON ŞARJ HİZMETLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 58,
+    "name": "evbee",
+    "short_name": "EVBEE ELEKTRİKLİ ARAÇ VE ŞARJ SİSTEMLERİ ENERJİ MÜHENDİSLİK ARGE SANAYİ TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 59,
+    "name": "EVC CHARGE",
+    "short_name": "EVCİL YATIRIM MÜHENDİSLİK MİMARLIK LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 60,
+    "name": "evroad",
+    "short_name": "ŞARJZONE ENERJİ VE ELEKTRİKLİ ARAÇ ŞARJ SİSTEMLERİ SANAYİ TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 61,
+    "name": "EVSolt",
+    "short_name": "STL SOLAR ENERJİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 62,
+    "name": "Fast-Go",
+    "short_name": "YENİ MODEL YAPAY ZEKA VE ROBOTİK TEKNOLOJİ HİZMETLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 63,
+    "name": "fixcharge",
+    "short_name": "BEYTTÜRK ENERJİ ÜRETİM VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 64,
+    "name": "FORTIS ENERJİ",
+    "short_name": "FORTİS ENERJİ ELEKTRİK ÜRETİM ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 65,
+    "name": "fotec",
+    "short_name": "FOTEC ENERJİ TEKNOLOJİLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 66,
+    "name": "FZYENERGY",
+    "short_name": "FZY ENERJİ ŞARJ SİSTEMLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 67,
+    "name": "G-Charge",
+    "short_name": "GERSAN ŞARJ SİSTEMLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 68,
+    "name": "GEL DOL",
+    "short_name": "ER ELEKTRONİK SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 69,
+    "name": "GERİLİM ENERJİ",
+    "short_name": "GERİLİM YENİLENEBİLİR ENERJİ VE TEKNOLOJİLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 70,
+    "name": "getacharge",
+    "short_name": "PROŞARJ ARAÇ ŞARJ SİSTEMLERİ ENERJİ SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 71,
+    "name": "GezCar",
+    "short_name": "GEZCAR TURİZM OTOMOTİV SANAYİ VE TİCARET LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 72,
+    "name": "GIOEV",
+    "short_name": "GİOEV ŞARJ İSTASYONLARI İŞLETMELERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 73,
+    "name": "GLADSOME",
+    "short_name": "AVEL ENERJİ ÜRETİM ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 74,
+    "name": "gotedygo",
+    "short_name": "TEDY ENERJİ VE TEKNOLOJİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 75,
+    "name": "GREEN ŞARJ İSTASYONLARI",
+    "short_name": "GREEN ŞARJ İSTASYONLARI KURULUM ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 76,
+    "name": "GREEN SCIENCE",
+    "short_name": "ZEY ENERJİ SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 77,
+    "name": "GREENWATT",
+    "short_name": "GREEN WATT ENERJİ ÜRETİM İNŞAAT SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 78,
+    "name": "GSM CHARGE",
+    "short_name": "GS MAR ELEKTRİK VE ELEKTRONİK CİHAZLAR SANAYİ DIŞ TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 79,
+    "name": "HIZZLAN Charge N'Drive",
+    "short_name": "JETCO ELEKTRİK ELEKTRONİK YÜKSEK TEKNOLOJİ HİZMETLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 80,
+    "name": "i-şarj",
+    "short_name": "İSPİRLİ ŞARJ HİZMETLERİ TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 81,
+    "name": "Incharge ELECTRIC VEHICLE CHARGING SYSTEMS",
+    "short_name": "İNCHARGE ELEKTRİKLİ ARAÇLAR HİZMETLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 82,
+    "name": "INTERDATA",
+    "short_name": "INTERDATA VERİ MERKEZİ VE ENTEGRASYON HİZMETLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 83,
+    "name": "İSPİRLİ",
+    "short_name": "İSPİRLİ ŞARJ HİZMETLERİ TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 84,
+    "name": "K-ŞARJ",
+    "short_name": "HUNAT ENERJİ YATIRIM VE DANIŞMANLIK SANAYİ TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 85,
+    "name": "Karbon Nötr Konya",
+    "short_name": "KONYA ELEKTRİKLİ ARAÇLAR ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 86,
+    "name": "KES",
+    "short_name": "KLR ENERJİ SİSTEMLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 87,
+    "name": "KÖFTECİ YUSUF",
+    "short_name": "KÖFTECİ YUSUF HAZIR YEMEK TEMİZLİK CANLI HAYVAN ET MAMÜLLERİ ENTEGRE GIDA İTHALAT İHRACAT SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 88,
+    "name": "KRNENERJİ ŞARJ İSTASYONLARI",
+    "short_name": "ARTI KURUMSAL KART VE PETROL HİZMETLERİ TİCARET LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 89,
+    "name": "LUMİCLE",
+    "short_name": "LUMHOUSE ENERJİ SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 90,
+    "name": "MAGIC LINE",
+    "short_name": "MAGİCLİNE ENERJİ SİSTEMLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 91,
+    "name": "MEHMETÇİK ENERJİ GRUBU",
+    "short_name": "MEHMETÇİK ENERJİ GRUBU ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 92,
+    "name": "MEIS CHARGE",
+    "short_name": "MEİS CHARGE TEKNOLOJİLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 93,
+    "name": "MERCURY",
+    "short_name": "MERCURY ŞARJ HİZMETLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 94,
+    "name": "MİGGO",
+    "short_name": "MİGEN ENERJİ VE ELEKTRİKLİ ARAÇ ŞARJ HİZMETLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 95,
+    "name": "MINUS ENERGY",
+    "short_name": "MINUS ENERGY ENERJİ SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 96,
+    "name": "MITHRA POD",
+    "short_name": "MİTHRA POD ELEKTRİK VE ELEKTRONİK OTOMASYON SİSTEMLERİ İMALAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 97,
+    "name": "MKS-ŞARJ",
+    "short_name": "MAKSEM ELEKTRO ŞARJ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 98,
+    "name": "Monokon elektrik",
+    "short_name": "MONOKON ELEKTRİK SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 99,
+    "name": "MULTI FORCE",
+    "short_name": "FULL ELEKTRİKLİ ARAÇLAR ŞARJ AĞI İSTASYONLARI İŞLETMECİLİĞİ ENERJİ TİCARET VE SANAYİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 100,
+    "name": "MYCHARGE",
+    "short_name": "MANAS İPLİK SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 101,
+    "name": "MYPOWER",
+    "short_name": "AKDEN GEMİ İŞLETMECİLİĞİ VE DENİZCİLİK TİCARET LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 102,
+    "name": "MYZCO",
+    "short_name": "MYZ BİLGİSAYAR OTOMOTİV İNŞAAT PETROL SANAYİ VE TİCARET LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 103,
+    "name": "NEVA ŞARJ",
+    "short_name": "NEVA İÇ VE DIŞ TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 104,
+    "name": "Obişarj",
+    "short_name": "OBİŞARJ ELEKTRİKLİ ARAÇ ŞARJ SİSTEMLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 105,
+    "name": "oğultürk PANO",
+    "short_name": "OTP OĞULTÜRK PANO İMALAT İTHALAT İHRACAT SANAYİ VE TİCARET LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 106,
+    "name": "oncharge",
+    "short_name": "KALYON ELECTRICAL VEHICLE ENERJİ YATIRIM ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 107,
+    "name": "önizşarj",
+    "short_name": "ASM DEKORASYON MOBİLYA  GRANİT MERMER İNŞAAT SANAYİ TİCARET LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 108,
+    "name": "onLIFE",
+    "short_name": "FİLOPORT ARAÇ KİRALAMA VE SERVİS ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 109,
+    "name": "ORBİT ENERJİ HAB. TEK. SAN. VE TİC. A.Ş.",
+    "short_name": "ORBİT ENERJİ HABERLEŞME TEKNOLOJİ SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 110,
+    "name": "Otojet",
+    "short_name": "OTOJET ENERJİ SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 111,
+    "name": "Otopriz",
+    "short_name": "DİCLE KÖK ENERJİ YATIRIM ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 112,
+    "name": "otoWATT",
+    "short_name": "AYDEM PLUS ENERJİ ÇÖZÜMLERİ TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 113,
+    "name": "ovolt",
+    "short_name": "OVOLT ŞARJ TEKNOLOJİLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 114,
+    "name": "PETRODEM",
+    "short_name": "BLUE AKARYAKIT ENERJİ SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 115,
+    "name": "Petroo",
+    "short_name": "ANTTECH BİLİŞİM VE AKARYAKIT ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 116,
+    "name": "PİLSTOP",
+    "short_name": "RDS GAYRİMENKUL DANIŞMANLIK ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 117,
+    "name": "PİRİM GIDA VE MEŞRUBAT SAN. ve TİC. LTD. ŞTİ.",
+    "short_name": "PİRİM GIDA VE MEŞRUBAT SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 118,
+    "name": "PLECO advertise.charge.",
+    "short_name": "ÖZKA ENERJİ YATIRIMLARI ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 119,
+    "name": "Plug&drive",
+    "short_name": "PGD ENERJİ YATIRIMLARI SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 120,
+    "name": "pluginn",
+    "short_name": "PLUGİNN ELEKTRİKLİ TAŞITLAR ŞARJ SİSTEMLERİ VE YAZILIM HİZMETLERİ SANAYİ TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 121,
+    "name": "Polestar",
+    "short_name": "NTECHNIC ELEKTRONİK SANAYİ TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 122,
+    "name": "porty",
+    "short_name": "PORTY SMART TECH TEKNOLOJİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 123,
+    "name": "POWER ELEKTRONİK SANAYİ VE TİCARET LİMİTED ŞİRKETİ",
+    "short_name": "POWER ELEKTRONİK SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 124,
+    "name": "POWERŞARJ",
+    "short_name": "WHITE ROSE MOTOR SANAYİ VE OTOMASYON TİCARET LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 125,
+    "name": "PROMASTER",
+    "short_name": "PROMASTER DANIŞMANLIK LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 126,
+    "name": "Q Charge",
+    "short_name": "META MOBİLİTE ENERJİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 127,
+    "name": "QC QUIKŞARJ",
+    "short_name": "CHARGE MAHAL ENERJİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 128,
+    "name": "RÖNESANS CHARGER",
+    "short_name": "RÖNESANS ŞARJ İSTASYON ENERJİ YATIRIMLARI ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 129,
+    "name": "ROYAL",
+    "short_name": "FEDERAL ELEKTRİK YATIRIM VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 130,
+    "name": "RSŞARJ",
+    "short_name": "2M ELEKTRİKLİ ARAÇ ŞARJ AĞI VE İSTASYON İŞLETMECİLİĞİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 131,
+    "name": "Rst ChargePoint",
+    "short_name": "RST TEKNOLOJİ HİZMETLERİ VE ENERJİ SANAYİ TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 132,
+    "name": "RUG PAGE",
+    "short_name": "D RECT CHARGE ELEKTRİK ENERJİ SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 133,
+    "name": "ŞARJEN",
+    "short_name": "3 SM ŞARJ İSTASYONLARI SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 134,
+    "name": "ŞarjMatik",
+    "short_name": "ŞARJMATİK ENERJİ BİLİŞİM LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 135,
+    "name": "ŞARJON",
+    "short_name": "ŞARJON YENİLENEBİLİR ENERJİ VE ELEKTRİKLİ ARAÇ ŞARJ SİSTEMLERİ TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 136,
+    "name": "ŞARJPLUS",
+    "short_name": "ŞARJPLUS ELEKTRİKLİ ARAÇ ŞARJ SİSTEMLERİ LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 137,
+    "name": "ŞARJSTART",
+    "short_name": "KOÇASLANLAR AKARYAKIT ENERJİ PETROL ÜRÜNLERİ SANAYİ TİCARET LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 138,
+    "name": "ŞARJTAK",
+    "short_name": "TAYRAN GRUP İNŞAAT ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 139,
+    "name": "SHARZ.NET",
+    "short_name": "EVS ELEKTRİKLİ ŞARJ SİSTEMLERİ SAN.VE TİC.A.Ş."
+  },
+  {
+    "id": 140,
+    "name": "SHELL",
+    "short_name": "SHELL & TURCAS PETROL ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 141,
+    "name": "Sky World Solar Enerji",
+    "short_name": "SKY WORLD SOLAR ENERJİ ANONIM ŞİRKETİ"
+  },
+  {
+    "id": 142,
+    "name": "SOLARGIZE",
+    "short_name": "SMART SOLARGİZE YEŞİL MOBİLİTE ENERJİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 143,
+    "name": "solarşarj",
+    "short_name": "SOLAR ARAÇ ŞARJ HİZMETLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 144,
+    "name": "spectrum girişimcilik",
+    "short_name": "SPECTRUM GİRİŞİMCİLİK YATIRIMCILIK YAZILIM DANIŞMANLIK ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 145,
+    "name": "ŞS ŞARJSTOP Güvenli Şarj Noktası",
+    "short_name": "KARAKUŞLAR HALI TEKSTİL SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 146,
+    "name": "sunlight",
+    "short_name": "MYWEST İNŞAAT TURİZM GIDA TARIM HAYVANCILIK REKLAM EĞİTİM TEKSTİL MEDİKAL SANAYİ VE TİCARET LTD.ŞTİ."
+  },
+  {
+    "id": 147,
+    "name": "SWAPP",
+    "short_name": "DUMANOĞLU ENERJİ YATIRIM ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 148,
+    "name": "TELLİGRUP",
+    "short_name": "QUICK ENERJİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 149,
+    "name": "TESLA",
+    "short_name": "TESLA MOTORLARI SATIŞ VE HİZMETLERİ LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 150,
+    "name": "TOGER",
+    "short_name": "MİONTİ ENERJİ VE TEKNOLOJİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 151,
+    "name": "TORA",
+    "short_name": "TORA TEKNİK HİZMETLER İŞLETME ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 152,
+    "name": "Tripy",
+    "short_name": "TRİPY MOBİLİTY TEKNOLOJİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 153,
+    "name": "Trugo",
+    "short_name": "TRUGO AKILLI ŞARJ ÇÖZÜMLERİ SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 154,
+    "name": "tunçmatik",
+    "short_name": "TUNÇMATİK ŞARJ TEKNOLOJİLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 155,
+    "name": "TÜRKŞARJ",
+    "short_name": "ENERJİTURK ENERJİ YATIRIM ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 156,
+    "name": "turuncu mühendislik",
+    "short_name": "TURUNCU MÜHENDİSLİK ELEKTRİK TAAH.SAN.VE DIŞ TİC. LTD. ŞTİ."
+  },
+  {
+    "id": 157,
+    "name": "TÜVTURK",
+    "short_name": "TÜVTURK KUZEY TAŞIT MUAYENE İSTASYONLARI YAPIM VE İŞLETİM ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 158,
+    "name": "U-ŞARJ",
+    "short_name": "TCDD TEKNİK MÜHENDİSLİK VE MÜŞAVİRLİK ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 159,
+    "name": "VALE",
+    "short_name": "ULTRAMETRİK ENERJİ BİLGİSAYAR İNŞAAT KUYUMCULUK GIDA SANAYİ VE DIŞ TİCARET LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 160,
+    "name": "varr TM",
+    "short_name": "DESA ENERJİ ELEKTRİK ÜRETİM ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 161,
+    "name": "vilampo",
+    "short_name": "VİTALEN ENERJİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 162,
+    "name": "VİZYONEKS",
+    "short_name": "VİZYONEKS BİLGİ TEKNOLOJİLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 163,
+    "name": "volti",
+    "short_name": "VOLNET ENERJİ SİSTEMLERİ SANAYİ TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 164,
+    "name": "VOLTPO",
+    "short_name": "VOLTGO ŞARJ HİZMETLERİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 165,
+    "name": "VOLTRUN",
+    "short_name": "VOLTRUN ENERJİ ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 166,
+    "name": "WAT",
+    "short_name": "WAT MOBİLİTE ÇÖZÜMLERİ TEKNOLOJİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 167,
+    "name": "Wattarya",
+    "short_name": "WATTARYA ENERJİ SANAYİ VE TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 168,
+    "name": "WATTREISE",
+    "short_name": "SANTA SOLAR ENERJİ LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 169,
+    "name": "XŞARJ",
+    "short_name": "ART IN SYSTEMS BİLİŞİM TEKNOLOJİLERİ TİCARET LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 170,
+    "name": "ZEPLİN CAR rental",
+    "short_name": "ZEPLİN TURİZM TAŞIMACILIK YATIRIM SANAYİ VE TİCARET LİMİTED ŞİRKETİ"
+  },
+  {
+    "id": 171,
+    "name": "zes",
+    "short_name": "ZES DİJİTAL TİCARET ANONİM ŞİRKETİ"
+  },
+  {
+    "id": 172,
+    "name": "Ziraat İYGG",
+    "short_name": "ZİRAAT İŞLETME YÖNETİMİ VE GAYRİMENKUL GELİŞTİRME ANONİM ŞİRKETİ"
+  }
+]
